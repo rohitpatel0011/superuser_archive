@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on superuser archive</title>
+    <link>http://localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on superuser archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beginner&#39;s Guide with Enhanced Explanations of Linux</title>
+      <link>http://localhost:1313/linux/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/linux/</guid>
+      <description>Understanding Linux: Beyond the Operating System&#xA;While commonly referred to as an operating system, a more precise definition of Linux is the Linux kernel. Every operating system relies on a kernel, acting as the bridge between software programs and your computer&amp;rsquo;s hardware. The Linux kernel stands out for being open-source, meaning its source code is freely available for anyone to view, modify, and contribute to. This transparency and collaborative development process set Linux apart from closed-source operating systems where the source code remains a secret.</description>
+    </item>
+    <item>
+      <title>Unveiling the Linux Kernel</title>
+      <link>http://localhost:1313/kernel/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kernel/</guid>
+      <description>Unveiling the Linux Kernel:&#xA;The Kernel: Orchestrating Hardware Harmony Imagine a complex orchestra. The sheet music represents a software program, but it&amp;rsquo;s the conductor (the kernel) who translates those notes into instructions for the individual instruments (hardware components) to follow. The kernel ensures the CPU, memory, storage devices, and more receive the precise instructions needed to fulfill the program&amp;rsquo;s requests. This seamless communication happens through system calls, a well-defined language programs use to interact with the kernel&amp;rsquo;s services and access hardware resources.</description>
+    </item>
+  </channel>
+</rss>

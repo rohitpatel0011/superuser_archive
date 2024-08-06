@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MongoDB on superuser archive</title>
+    <link>http://localhost:1313/categories/mongodb/</link>
+    <description>Recent content in MongoDB on superuser archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking the Power of CRUD Operations: Create, Update[Operators], Delete, and Read Explained 🌱</title>
+      <link>http://localhost:1313/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-first-post/</guid>
+      <description>Creating documents in MongoDB is a fundamental part of the database&amp;rsquo;s functionality. Let&amp;rsquo;s explore the various ways to add data: Welcome to the world of MongoDB, where we&amp;rsquo;ll unravel the magic behind CRUD operations - Create, Read, Update, and Delete. Let&amp;rsquo;s dive in and make MongoDB a breeze for beginners! 🚀&#xA;Create - Bringing Data to Life Creating records in MongoDB is a piece of cake. You can use insert or its modern counterparts:</description>
+    </item>
+  </channel>
+</rss>

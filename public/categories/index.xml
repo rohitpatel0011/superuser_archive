@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on superuser archive</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on superuser archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AppDev</title>
+      <link>http://localhost:1313/categories/appdev/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/appdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DataSci</title>
+      <link>http://localhost:1313/categories/datasci/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/datasci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/categories/javascript/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JQuery</title>
+      <link>http://localhost:1313/categories/jquery/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/categories/linux/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reactjs</title>
+      <link>http://localhost:1313/categories/reactjs/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/reactjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TypeScript</title>
+      <link>http://localhost:1313/categories/typescript/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/typescript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebDev</title>
+      <link>http://localhost:1313/categories/webdev/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/webdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebDevelopment</title>
+      <link>http://localhost:1313/categories/webdevelopment/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/webdevelopment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DataBase</title>
+      <link>http://localhost:1313/categories/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MongoDB</title>
+      <link>http://localhost:1313/categories/mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mongodb/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

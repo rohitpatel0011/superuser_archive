@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Superuser on superuser archive</title>
+    <link>http://localhost:1313/authors/superuser/</link>
+    <description>Recent content in Superuser on superuser archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/superuser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beginner&#39;s Guide with Enhanced Explanations of Linux</title>
+      <link>http://localhost:1313/linux/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/linux/</guid>
+      <description>Understanding Linux: Beyond the Operating System&#xA;While commonly referred to as an operating system, a more precise definition of Linux is the Linux kernel. Every operating system relies on a kernel, acting as the bridge between software programs and your computer&amp;rsquo;s hardware. The Linux kernel stands out for being open-source, meaning its source code is freely available for anyone to view, modify, and contribute to. This transparency and collaborative development process set Linux apart from closed-source operating systems where the source code remains a secret.</description>
+    </item>
+    <item>
+      <title>Arrow Functions Streamlining JavaScript in ES6</title>
+      <link>http://localhost:1313/javascript-es6-arrow-function/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-es6-arrow-function/</guid>
+      <description>The Traditional Way: Function Definitions Before ES6 Before ES6 graced the scene, defining functions involved the function keyword followed by the function name, arguments in parentheses, and the function body nestled within curly braces. Here&amp;rsquo;s a classic example:&#xA;function add(x, y) { const sum = x + y; return sum; } This approach functions flawlessly, but for simpler functions, it can feel verbose.&#xA;Enter Arrow Functions: Embracing Conciseness&#xA;Arrow functions bring a breath of fresh air, offering a cleaner alternative.</description>
+    </item>
+    <item>
+      <title>Demystifying Destructuring A Streamlined Approach to Object Data in JavaScript</title>
+      <link>http://localhost:1313/javascript-es6-destructuring/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-es6-destructuring/</guid>
+      <description>Extracting Data from Objects: The Traditional Approach Imagine you&amp;rsquo;re developing a restaurant recommendation system. You have an object representing a delicious sandwich, encompassing its title, price, description, and ingredients:&#xA;JavaScript const sandwich = { title: &amp;lsquo;Reuben&amp;rsquo;, price: 10.50, description: &amp;lsquo;A classic stacked delight with corned beef, sauerkraut, Swiss cheese, and rye bread.&amp;rsquo;, ingredients: [&amp;lsquo;Corned beef&amp;rsquo;, &amp;lsquo;Sauerkraut&amp;rsquo;, &amp;lsquo;Swiss cheese&amp;rsquo;, &amp;lsquo;Rye bread&amp;rsquo;] };&#xA;console.log(sandwich.title); // Output: Reuben console.log(sandwich.price); // Output: 10.5 Use code with caution.</description>
+    </item>
+    <item>
+      <title>Enhancing React Components: A Seamless Journey into jQuery Integration</title>
+      <link>http://localhost:1313/my-third-post/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-third-post/</guid>
+      <description>In the ever-evolving landscape of web development, finding the right combination of tools can greatly enhance the functionality and user experience of your applications. In this blog post, we&amp;rsquo;ll delve into the integration of jQuery with React components – a fusion of two powerful libraries that can bring interactive and dynamic features to your web projects.&#xA;Why Combine React and jQuery? React is renowned for its declarative and component-based approach, allowing developers to build scalable and efficient user interfaces.</description>
+    </item>
+    <item>
+      <title>Iterating The for...of Loop in JavaScript</title>
+      <link>http://localhost:1313/javascript-for-of-loop/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-for-of-loop/</guid>
+      <description>Understanding Iterables: A Foundation for for&amp;hellip;of An iterable object is essentially a collection that can be looped over, allowing you to access its elements one by one. Arrays, strings, maps, and sets all qualify as iterables in JavaScript. The for&amp;hellip;of loop takes advantage of this inherent iterability to provide a clean and efficient way to process each element within an iterable.&#xA;Iterating over Strings: Extracting Characters&#xA;Let&amp;rsquo;s embark on a practical exploration using a string:</description>
+    </item>
+    <item>
+      <title>JavaScript &#34;Strings&#34; (properties &amp; methods) with Code Examples</title>
+      <link>http://localhost:1313/javascript-strings/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-strings/</guid>
+      <description>String Essentials: Constructing Your Textual Foundations In JavaScript, strings are represented by sequences of characters enclosed within quotation marks. These constructs, known as string literals, define the raw textual data. You have two primary options for creating strings:&#xA;Double Quotes (&amp;quot;): The most widely used approach. A valid example is&#xA;&amp;quot;Hello, world!&amp;quot;;&#xA;Single Quotes (&amp;rsquo;): You can also leverage single quotes for the same purpose, as seen in &amp;lsquo;JavaScript strings are versatile&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>JavaScript Maps A Powerful Alternative to Objects</title>
+      <link>http://localhost:1313/javascript-map-object/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-map-object/</guid>
+      <description>Key Differences Between Maps and Objects Both objects and maps excel at storing key-value associations, but some fundamental distinctions set them apart:&#xA;Key Constraints: Objects impose stricter limitations on the types of values you can use as keys. They demand keys to be strings or symbols, which can be restrictive in certain scenarios. Imagine storing data associated with a user identified by their email address (which can contain special characters). Objects would struggle with this, as they can&amp;rsquo;t handle these non-string values as keys.</description>
+    </item>
+    <item>
+      <title>JavaScript Mastering Object Manipulation &amp; References in JavaScript (Code Examples)</title>
+      <link>http://localhost:1313/javascript-objects/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-objects/</guid>
+      <description>JavaScript, objects reign supreme as the foundation for data modeling. They empower you to represent complex information within your code, breathing life into applications that interact with real-world entities. This comprehensive guide, enriched with code examples, equips you to confidently create, access, modify, and delete properties within your objects, laying the groundwork for exceptional JavaScript development.&#xA;Objects: Building the Blocks Imagine a treasure chest overflowing with knowledge. Objects in JavaScript embody this concept, serving as structured collections of key-value pairs.</description>
+    </item>
+    <item>
+      <title>Merging Objects with the Spread Operator in JavaScript</title>
+      <link>http://localhost:1313/javascript-es6-spread-operator/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-es6-spread-operator/</guid>
+      <description>Understanding the Spread Operator with Objects&#xA;The spread operator, denoted by three dots (&amp;hellip; ), acts as a shorthand for unpacking the properties of an existing object into a new one. Imagine it as a tool that meticulously extracts individual properties from one object and incorporates them into another, creating a unified structure.&#xA;A Practical Example: Building a Backpacking Menu&#xA;Let&amp;rsquo;s embark on a culinary journey and construct a scrumptious backpacking menu using the spread operator:</description>
+    </item>
+    <item>
+      <title>My  fifth Post</title>
+      <link>http://localhost:1313/my-fifth-post/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-fifth-post/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 this text is itallic _This text _ is itallic&#xA;This text is strong(bold) This text is bold&#xA;THis text is strikethrough&#xA;This is a quote&#xA;Go to the Link my Github repo Link hover item 1&#xA;Nested Item 1.0 Nested Item 1.1 Nested Item 1.2 Nested Item 1.3 Nested Item 1.4 Item 2&#xA;Nested Item 2.0 Nested Item 2.</description>
+    </item>
+    <item>
+      <title>Separating Data and Functions Separated but Working Together in JavaScript (Functional Style)</title>
+      <link>http://localhost:1313/javascript-functional-programing/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-functional-programing/</guid>
+      <description>Data Everywhere! Data is the heart of any program and we can say &amp;ldquo;The Fuel of Programs&amp;rdquo;. It can be anything from names and addresses to car models and video game character stats.&#xA;In the world of programming, we have two main choreography styles for organizing things: object-oriented programming (OOP) and functional programming (FP) Today, we&amp;rsquo;ll delve into a key difference between these styles - how they handle data and functions, the essential building blocks of any program.</description>
+    </item>
+    <item>
+      <title>Streamlining Object Creation with Enhanced Object Literals in JavaScript</title>
+      <link>http://localhost:1313/javascript-es6-object-literals/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-es6-object-literals/</guid>
+      <description>JavaScript offers a treasure trove of functionalities to make your code more concise and readable. One such gem is Enhanced Object Literals, introduced in ES6, that simplifies object creation, particularly when dealing with property names that directly correspond to variable names. This blog post dives into this concept, equipping you with the knowledge to craft objects with less clutter and enhanced clarity.&#xA;Traditional Object Creation: A Case Study with Skiers</description>
+    </item>
+    <item>
+      <title>System software in computer</title>
+      <link>http://localhost:1313/computer-softwere-in-computer/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/computer-softwere-in-computer/</guid>
+      <description>System softwere in computer Disk partitioning that disk manager to divide a single drive into multiple logical to divide a single drive into multiple logical drive is then treated as indivisual drive&#xA;Disk Cleaners To find files that have not beeen used for long time it helps the user to decide what to delete when the hard disk is full.&#xA;Backup Utility to make copy of all information store on the disk.</description>
+    </item>
+    <item>
+      <title>Taming Asynchronous Behavior A Guide to Promises in JavaScript</title>
+      <link>http://localhost:1313/javascript-promises/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-promises/</guid>
+      <description>Understanding Asynchronous Operations Imagine you&amp;rsquo;re developing a weather app. To display the current temperature, you need to fetch data from a weather API. This data retrieval process is asynchronous; it takes some time for the API to respond with the requested information. Promises come into play by providing a way to handle this delay and ensure that your code executes seamlessly.&#xA;Building Your First Promise: Creating a Delay Function&#xA;Let&amp;rsquo;s embark on a practical exploration of promises.</description>
+    </item>
+    <item>
+      <title>Understanding Type Checking in JavaScript</title>
+      <link>http://localhost:1313/javascript-type-checking/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-type-checking/</guid>
+      <description>JavaScript&amp;rsquo;s Loose Typing Paradigm JavaScript is a loosely typed language. Unlike statically typed languages (where variable types are explicitly defined during declaration), JavaScript allows assigning different data types to the same variable throughout your code. This flexibility can streamline development but necessitates measures to verify data types at runtime.&#xA;For instance:&#xA;JavaScript // Loose typing in JavaScript let value: any; // Declare with a placeholder type value = 12; // value is now a number value = &amp;ldquo;hello&amp;rdquo;; // value is now a string Use code with caution.</description>
+    </item>
+    <item>
+      <title>Unleashing the Power of JavaScript Variables: A Comprehensive Guide</title>
+      <link>http://localhost:1313/javascript-variables/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-variables/</guid>
+      <description>In the realm of JavaScript, variables are the essential tools you employ to store and manage information as your program executes. Mastering their usage is paramount to crafting efficient and dynamic applications. This comprehensive guide delves deeper into JavaScript variables, providing code examples to illustrate their functionality.&#xA;Declaration Fundamentals: Keywords and Assignment: We declare variables using keywords (var, let, or const) followed by a chosen name and an optional assignment using the = operator.</description>
+    </item>
+    <item>
+      <title>Unveiling Classes in JavaScript Building Reusable(inheritance) Objects</title>
+      <link>http://localhost:1313/javascript-classes/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript-classes/</guid>
+      <description>Introducing the Class: A Blueprint for Objects Imagine you&amp;rsquo;re developing a game simulation. You require a mechanism to represent various vehicles, each with common properties (like description) and functionalities (like describing itself). Classes serve as blueprints for creating objects that share these traits. Let&amp;rsquo;s build a Vehicle class:&#xA;JavaScript class Vehicle { constructor(description, wheels) { // Set properties using &amp;rsquo;this&amp;rsquo; keyword this.description = description; this.wheels = wheels; }&#xA;describeYourself() { console.</description>
+    </item>
+    <item>
+      <title>Unveiling the Linux Kernel</title>
+      <link>http://localhost:1313/kernel/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kernel/</guid>
+      <description>Unveiling the Linux Kernel:&#xA;The Kernel: Orchestrating Hardware Harmony Imagine a complex orchestra. The sheet music represents a software program, but it&amp;rsquo;s the conductor (the kernel) who translates those notes into instructions for the individual instruments (hardware components) to follow. The kernel ensures the CPU, memory, storage devices, and more receive the precise instructions needed to fulfill the program&amp;rsquo;s requests. This seamless communication happens through system calls, a well-defined language programs use to interact with the kernel&amp;rsquo;s services and access hardware resources.</description>
+    </item>
+    <item>
+      <title>Unlocking the Power of CRUD Operations: Create, Update[Operators], Delete, and Read Explained 🌱</title>
+      <link>http://localhost:1313/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-first-post/</guid>
+      <description>Creating documents in MongoDB is a fundamental part of the database&amp;rsquo;s functionality. Let&amp;rsquo;s explore the various ways to add data: Welcome to the world of MongoDB, where we&amp;rsquo;ll unravel the magic behind CRUD operations - Create, Read, Update, and Delete. Let&amp;rsquo;s dive in and make MongoDB a breeze for beginners! 🚀&#xA;Create - Bringing Data to Life Creating records in MongoDB is a piece of cake. You can use insert or its modern counterparts:</description>
+    </item>
+  </channel>
+</rss>

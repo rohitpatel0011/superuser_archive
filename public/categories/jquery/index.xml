@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JQuery on superuser archive</title>
+    <link>http://localhost:1313/categories/jquery/</link>
+    <description>Recent content in JQuery on superuser archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing React Components: A Seamless Journey into jQuery Integration</title>
+      <link>http://localhost:1313/my-third-post/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-third-post/</guid>
+      <description>In the ever-evolving landscape of web development, finding the right combination of tools can greatly enhance the functionality and user experience of your applications. In this blog post, we&amp;rsquo;ll delve into the integration of jQuery with React components – a fusion of two powerful libraries that can bring interactive and dynamic features to your web projects.&#xA;Why Combine React and jQuery? React is renowned for its declarative and component-based approach, allowing developers to build scalable and efficient user interfaces.</description>
+    </item>
+  </channel>
+</rss>

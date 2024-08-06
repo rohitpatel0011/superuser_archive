@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TypeScript on superuser archive</title>
+    <link>http://localhost:1313/categories/typescript/</link>
+    <description>Recent content in TypeScript on superuser archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UDemystifying the Tech Trio: APIs, Web Services, and Microservices🚀</title>
+      <link>http://localhost:1313/simple-guide-web-serives-api/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/simple-guide-web-serives-api/</guid>
+      <description>In the realm of software development, terms like APIs, web services, and microservices often get thrown around interchangeably, creating confusion. While they all play crucial roles in facilitating communication within software systems, each one serves a distinct purpose and operates under different principles.&#xA;APIs (Application Programming Interfaces): Imagine APIs as diplomats in the software world. They act as standardized protocols, establishing a common language for different software components to interact and exchange information.</description>
+    </item>
+    <item>
+      <title>Understanding TypeScript 🔵 Basics: A Beginner&#39;s Guide 🚀</title>
+      <link>http://localhost:1313/typescript-cheat-sheet/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/typescript-cheat-sheet/</guid>
+      <description>TypeScript, a superset of JavaScript, enhances code quality through static typing. Let&amp;rsquo;s explore the essentials with emojis to make it even more fun!&#xA;Installing TypeScript 🌐 To get started, install TypeScript globally using npm:&#xA;$ npm install -g typescript $ tsc -v Setting Up tsconfig.json ⚙️ Create a tsconfig.json file to configure your TypeScript project:&#xA;$ tsc --init Set the rootDir and outDir:&#xA;{ &amp;#34;compilerOptions&amp;#34;: { // Other options... &amp;#34;rootDir&amp;#34;: &amp;#34;.</description>
+    </item>
+  </channel>
+</rss>
